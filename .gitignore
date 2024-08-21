@@ -1,0 +1,10 @@
+*.aux
+*.bbl
+*.bcf
+*.log
+*.out
+*.xml
+*.gz
+*.toc
+*.blg
+.ipynb_checkpoints
