@@ -1,10 +1,5 @@
-*.aux
-*.bbl
-*.bcf
-*.log
-*.out
-*.xml
-*.gz
-*.toc
-*.blg
 .ipynb_checkpoints
+.jupyter/desktop-workspaces
+.virtual_documents
+.DS_Store
+.jupyter
